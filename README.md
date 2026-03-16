@@ -1,7 +1,7 @@
 # RASSFM-2.0_MATLAB
 This repository provides the official MATLAB implementation of RASSFM 2.0, an improved spatial–spectral fusion model designed to blend multispectral imagery from different sensors and generate fine-and-rich images that simultaneously preserve high spatial and spectral fidelity.
 
-Version 1.0: March 16, 2026.
+Code Version 1.0: March 16, 2026.
 
 Overview
 ===================================================================================================================================================================
