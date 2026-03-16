@@ -16,7 +16,8 @@ Should you have any questions or find any bugs, please feel free to contact Yong
 
 References:
 ===================================================================================================================================================================
-Yongquan Zhao, Desheng Liu, Xiaolin Zhu, Ming Luo, Bo Huang, Chunqiao Song, Xuejun Duan. 2026. RASSFM 2.0: An enhanced M2Msharpening model for blending PlanetScope and Sentinel-2 imagery across broad landscapes and improved land cover classification. Remote Sensing of Environment.
+1. Yongquan Zhao, Desheng Liu, Xiaolin Zhu, Ming Luo, Bo Huang, Chunqiao Song, Xuejun Duan. 2026. RASSFM 2.0: An enhanced M2Msharpening model for blending PlanetScope and Sentinel-2 imagery across broad landscapes and improved land cover classification. Remote Sensing of Environment.
+2. Yongquan Zhao, Desheng Liu. 2022. A robust and adaptive spatial-spectral fusion model for PlanetScope and Sentinel-2 imagery. GIScience & Remote Sensing, 59(1), 520-546. doi: 10.1080/15481603.2022.2036054
 
 Copyright and License
 ===================================================================================================================================================================
