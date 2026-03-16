@@ -1,41 +1,8 @@
 # RASSFM-2.0_MATLAB
 This repository provides the official MATLAB implementation of RASSFM 2.0, an enhanced spatial–spectral fusion model designed to blend multispectral imagery from different sensors and generate fine-and-rich images that simultaneously preserve high spatial and spectral fidelity.
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="190.84375" height="20">
-        <linearGradient id="b" x2="0" y2="100%">
-            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-            <stop offset="1" stop-opacity=".1"/>
-        </linearGradient>
-        <mask id="a" width="190.84375" height="20">
-            <rect width="190.84375" height="20" rx="3"
-            fill="#fff"/>
-        </mask>
-        <g mask="url(#a)">
-            <path fill="#555" d="M0 0h31.375v20H0z" />
-            <path fill="#007ec6"
-            d="M31.375 0h159.46875v20H31.375z"
-            />
-            <path fill="url(#b)" d="M0 0h190.84375v20H0z" />
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,
-        Verdana,Geneva,sans-serif" font-size="11">
-            <text x="16.1875" y="15" fill="#010101"
-            fill-opacity=".3">
-                DOI
-            </text>
-            <text x="16.1875" y="14">
-                DOI
-            </text>
-            <text x="110.609375"
-            y="15" fill="#010101" fill-opacity=".3">
-                10.5281/zenodo.19046912
-            </text>
-            <text x="110.609375" y="14">
-                10.5281/zenodo.19046912
-            </text>
-        </g>
-    </svg>
+[![DOI](https://zenodo.org/badge/1065591619.svg)](https://doi.org/10.5281/zenodo.19046911)
+
 
 Code Version 1.0: March 16, 2026.
 
