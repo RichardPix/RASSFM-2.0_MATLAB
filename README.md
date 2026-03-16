@@ -1,12 +1,12 @@
 # RASSFM-2.0_MATLAB
-This repository provides the official MATLAB implementation of RASSFM 2.0, an improved spatial–spectral fusion model designed to blend multispectral imagery from different sensors and generate fine-and-rich images that simultaneously preserve high spatial and spectral fidelity.
+This repository provides the official MATLAB implementation of RASSFM 2.0, an enhanced spatial–spectral fusion model designed to blend multispectral imagery from different sensors and generate fine-and-rich images that simultaneously preserve high spatial and spectral fidelity.
 
 Code Version 1.0: March 16, 2026.
 
 Overview
 ===================================================================================================================================================================
-The model is particularly designed for multispectral-to-multispectral sharpening (M2Msharpening), enabling the fusion of high-resolution multispectral imagery (e.g., PlanetScope) with spectrally richer but coarser imagery (e.g., Sentinel-2).
-Beyond traditional image fusion evaluation, this work also demonstrates that improved fusion can enhance downstream Earth observation tasks, such as very-high-resolution land cover classification.
+The model is particularly designed for multispectral-to-multispectral sharpening (M2Msharpening), enabling the fusion of fine-but-limited imagery (e.g., PlanetScope) with coarse-but-rich imagery (e.g., Sentinel-2) for fine-and-rich imagery.
+Beyond traditional image fusion evaluation, this work also demonstrates that improved fusion can enhance downstream Earth observation tasks, such as very-high-resolution (3-m) land cover classification.
 
 Tutorial for using RoLaSTIM
 ===================================================================================================================================================================
@@ -21,7 +21,7 @@ References:
 
 Copyright and License
 ===================================================================================================================================================================
-Copyright (c) 2025 Yongquan Zhao, Ningjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS).
+Copyright (c) 2026 Yongquan Zhao, Ningjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS).
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
