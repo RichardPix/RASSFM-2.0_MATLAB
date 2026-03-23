@@ -8,11 +8,13 @@ Code Version 1.0: March 16, 2026.
 Overview
 ===================================================================================================================================================================
 The model is designed for multispectral-to-multispectral sharpening (newly defined as M2Msharpening), enabling the fusion of fine-but-limited imagery (e.g., PlanetScope) with coarse-but-rich imagery (e.g., Sentinel-2) to produce fine-and-rich imagery.
+
 Beyond traditional image fusion evaluation, this work demonstrates that M2Msharpening can enhance downstream Earth observation tasks, such as very-high-resolution (3-m) land cover classification. Moreover, RASSFM 2.0-based land cover classification outperforms single-sensor, band-stacking, and our earlier RASSFM 1.0 results.
 
 Tutorial
 ===================================================================================================================================================================
 Run the script "main_rassfm2.m" to generate fine-and-rich imagery. This script reads image paths from "RASSFM2_Path.txt", including source PlanetScope (PSB.SD), Sentinel-2 10-/20-m bands, and the fused result image. Please follow the guidelines in "main_rassfm2.m" to ensure correct operations. 
+
 If users are using PS2 or PS2.SD, please adjust the code accordingly because they don't have the red edge band. Users may refer to RASSFM 1.0, https://github.com/RichardPix/RASSFM_MATLAB. Additionally, note that the NIR band of PS2 and PS2.SD/PSB corresponds to the NIR and NNIR bands of Sentinel-2, respectively.
 
 Should you have any questions or find any bugs, please feel free to contact Yongquan Zhao (yongquanzhao181@gmail.com). We will keep maintaining the code. Welcome feedback!
