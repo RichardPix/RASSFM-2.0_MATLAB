@@ -11,7 +11,8 @@
 % RASSFM 1.0: Yongquan Zhao, Desheng Liu. 2022. A robust and adaptive spatial-spectral fusion model 
 %               for PlanetScope and Sentinel-2 imagery. GIScience & Remote Sensing, 59(1), 520-546.
 % RASSFM 2.0: Yongquan Zhao, Desheng Liu, Xiaolin Zhu, Ming Luo, Bo Huang, Chunqiao Song, Xuejun Duan. RASSFM 2.0: An 
-%               enhanced M2Msharpening model for blending PlanetScope and Sentinel-2 imagery across broad landscapes at 3-m resolution. Under Review.
+%               enhanced M2Msharpening model for PlanetScope–Sentinel-2 image fusion across broad landscapes with 
+%               improved land cover classification. Remote Sensing of Environment, 338, 115371.
 % 
 % 
 % Inputs from RASSFM_Path.txt:
